@@ -1,0 +1,14 @@
+
+a:link{
+  background-color: lightgreen;
+  padding: 20px
+}
+a:hover{
+  color: blue;
+  background-color: hotpink;
+  text-decoration: none;
+}
+a:visited{
+  color: green;
+  background-color: cyan;
+}
